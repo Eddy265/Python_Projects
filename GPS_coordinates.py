@@ -1,5 +1,6 @@
 import csv
 
+#Import Nominatim and assign the google map API key 
 from geopy.geocoders import Nominatim
 key = "AIzaSyBjteltTAAJSi-m696Lbf5Ou3vhmhUZBLU"
 
