@@ -8,4 +8,4 @@ data = 'https://linktr.ee/edwin_uzoefuna'
 img = qrcode.make(data)
  
 # Saving as an image file
-img.save('MyQRCode1.png')
+img.save('MyQRCode2.png')
